@@ -1,4 +1,4 @@
-# GraphTransformerNetwork\ 
+# GraphTransformerNetwork
 @inproceedings{yun2019graph,
   title={Graph Transformer Networks},  
   
@@ -12,6 +12,6 @@
 }. 
 
 original code:https://github.com/seongjunyun/Graph_Transformer_Networks. 
-## Data. 
+## Data  
 Dataset of the paper is too large to upload in Github. 
 You can download it [here](https://drive.google.com/file/d/1qOZ3QjqWMIIvWjzrIdRe3EA4iKzPi6S5/view)
